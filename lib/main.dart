@@ -70,7 +70,7 @@ class MyHomePage extends StatelessWidget {
               child: Center(
                 
                 child: Text(
-                  'Box 2',
+                  'Box 34242',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 24,
